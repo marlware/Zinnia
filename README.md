@@ -3,6 +3,8 @@
 - an enterprise operations management platform
 - in English: code that helps a team organize work, people, and equipment in one place
 - named after the <a href="https://www.youtube.com/watch?v=IWqJMne8xbU">fourth track</a> on Clairo's 2021 album <i>Sling</i>
+
+## Executive rundown
 - Zinnia is like Jira mixed with ServiceNow. People can create work orders, assign them, track assets, and watch updates happen live.
 
 ## Tech stack
